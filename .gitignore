@@ -1,3 +1,6 @@
 # document関係
 document/*.gz
 document/*.tex
+
+# node
+node_modules/
