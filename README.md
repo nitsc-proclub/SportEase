@@ -35,6 +35,7 @@
 - **build**: ⚙️　ビルド系の変更（例：webpackなど）
 - **release**: 📦 リリース（例：npmなど）
 - **ci**: 📦 CI系の変更（例：github actionsなど）
+- **init**: 📦 初期化
 
 `<scope>` **(任意)**
 

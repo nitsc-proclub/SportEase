@@ -21,7 +21,8 @@ module.exports = {
                 'revert',
                 'build',
                 'release',
-                'ci'
+                'ci',
+                'init'
             ]
         ],
         'subject-case': [
