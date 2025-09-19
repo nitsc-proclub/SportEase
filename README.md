@@ -65,9 +65,3 @@
 **Issue番号**
 
 コミットが特定のIssueを解決する場合に記載します。キーワード(`close`,`fixes`)を使用すると、GitHub上で自動的にIssueがクローズされます。
-
-### 便利なツール
-
-- [commitlint](https://commitlint.js.org/): コミットメッセージが規約に従っているかを自動でチャックします。
-- [Commitizen](https://commitizen-tools.github.io/commitizen/): 対話形式で規約に沿ったコミットメッセージをの作成をサポートします。
-- [Husky](https://github.com/typicode/husky): Gitフック(`commit-msg`など)を簡単に設定でき、`commitlint`と組み合わせてコミット時に自動チャックを強制できます。
