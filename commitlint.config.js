@@ -23,6 +23,11 @@ module.exports = {
                 'release',
                 'ci'
             ]
+        ],
+        'subject-case': [
+            0,
+            'always',
+            'lower-case',
         ]
     }
 };
